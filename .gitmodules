@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ADDT"]
+	path = ADDT
+	url = https://github.com/cran/ADDT
+	shallow = true
+	registered = true
+[submodule "MICsplines"]
+	path = MICsplines
+	url = https://github.com/cran/MICsplines
+	shallow = true
+	registered = true
+[submodule "poibin"]
+	path = poibin
+	url = https://github.com/cran/poibin
+	shallow = true
+	registered = true
+[submodule "PoissonMultinomial"]
+	path = PoissonMultinomial
+	url = https://github.com/cran/PoissonMultinomial
+	shallow = true
+	registered = true
+[submodule "SpatialVS"]
+	path = SpatialVS
+	url = https://github.com/cran/SpatialVS
+	shallow = true
+	registered = true
+[submodule "SPREDA"]
+	path = SPREDA
+	url = https://github.com/cran/SPREDA
+	shallow = true
+	registered = true
