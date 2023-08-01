@@ -8,15 +8,15 @@
 [submodule "MICsplines"]
 	path = MICsplines
 	url = https://github.com/cran/MICsplines
-[submodule "poibin"]
-	path = poibin
-	url = https://github.com/cran/poibin
 [submodule "PoissonMultinomial"]
 	path = PoissonMultinomial
 	url = https://github.com/cran/PoissonMultinomial
-[submodule "SpatialVS"]
-	path = SpatialVS
-	url = https://github.com/cran/SpatialVS
 [submodule "SPREDA"]
 	path = SPREDA
 	url = https://github.com/cran/SPREDA
+[submodule "SpatialVS"]
+	path = SpatialVS
+	url = https://github.com/cran/SpatialVS
+[submodule "poibin"]
+	path = poibin
+	url = https://github.com/cran/poibin
